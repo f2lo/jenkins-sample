@@ -52,4 +52,12 @@ public class AppTest
     {
         assertTrue( true);
     }
+    
+             /**
+     * Rigourous Test3 :-)
+     */
+    public void testApp3()
+    {
+        assertTrue( true);
+    }
 }
